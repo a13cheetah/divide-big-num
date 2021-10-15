@@ -33,4 +33,11 @@ def chiahaisolon(sobichia, sochia):
 
 sobichia = "1248163264128256512";
 sochia = 125;
+
+
+
+
+
+
+### OR YOU CAN DOWNLOAD ###
 print(chiahaisolon(sobichia, sochia));
